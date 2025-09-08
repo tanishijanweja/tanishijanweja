@@ -1,7 +1,9 @@
 # 💫 About Me:
 👾 Hey, I’m Tanishi Janweja— I break things, then Google how to fix them.<br>🧠 Second-year Btech student learning web dev.<br>🎨 I also draw pretty stuff when I’m not stuck on semicolons.<br><br>
 
-
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tanishijanweja.tanishijanweja&left_text=views"  />
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishi-janweja-01693b324/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/tanishijanweja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishi.janweja@gmail.com) 
 
