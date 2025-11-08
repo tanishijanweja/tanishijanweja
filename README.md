@@ -2,7 +2,6 @@
 👾 Hey, I’m **Tanishi Janweja** — I break things, then Google how to fix them.  
 🧠 Second-year **B.Tech student** learning **Web Development**.  
 🎨 I also draw pretty stuff when I’m not stuck on semicolons.  
-🌐 **Check out my portfolio:** [tanishi.app](https://tanishi.app)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tanishijanweja.tanishijanweja&left_text=views" />
@@ -11,7 +10,6 @@
 ---
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tanishi.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishi-janweja)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tanishijanweja)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tanishijanweja5697)
