@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Hey, I’m Tanishi Janweja. I break things, then Google how to fix them.  <br>🧠 Second-year, B.Tech student learning Web Development.  <br>🎨 I also draw pretty stuff when I’m not stuck on semicolons. Check more about be: www.tanishi.app  <br>💻 Currently working a web developer @callhq.ai
+👾 Hey, I’m Tanishi Janweja. I break things, then Google how to fix them.  <br>🧠 Second-year, B.Tech student learning Web Development.  <br>🎨 I also draw pretty stuff when I’m not stuck on semicolons. Check more about me: www.tanishi.app 
 
 
 ## 🌐 Socials:
