@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Hey, I’m Tanishi Janweja. I break things, then "chatgpt" how to fix them.<br>🧠 Second-year, B.Tech student learning Web Development.<br>🎨 I also draw pretty stuff when I’m not chasing bugs. <br>🎀 Check more about me: www.tanishi.app<br>👩‍💻 i use arch btw<br><br>
+👾 Hey, I’m Tanishi Janweja. I break things, then "chatgpt" how to fix them.<br>🧠 Second-year, B.Tech student learning Web Development.<br>🎨 I also draw pretty stuff sometimes. <br>🎀 Check more about me: www.tanishi.app<br>👩‍💻 i use arch btw<br><br>
 
 
 ## 🌐 Socials:
