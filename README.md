@@ -1,5 +1,9 @@
 # About Me:
-Hey, I’m Tanishi Janweja. I break things, then "chatgpt" how to fix them.<brSecond-year, B.Tech student learning Web Development.<brI also draw pretty stuff sometimes. <brCheck more about me: www.tanishi.app<bri use arch btw<br><br>
+Hey, I’m Tanishi Janweja. I break things, then "chatgpt" how to fix them.
+Second-year, B.Tech student learning Web Development.
+I also draw pretty stuff sometimes.
+Check more about me: www.tanishi.app
+i use arch btw
 
 
 ## Socials:
@@ -10,6 +14,5 @@ Hey, I’m Tanishi Janweja. I break things, then "chatgpt" how to fix them.<brSe
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanishijanweja&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=tanishijanweja&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
